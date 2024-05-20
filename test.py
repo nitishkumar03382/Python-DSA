@@ -1,0 +1,1 @@
+print('Sandeep', 'Kumar', sep = '-')
